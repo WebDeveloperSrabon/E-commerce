@@ -1,0 +1,9 @@
+google font name 
+
+font-family: 'Kaisei Tokumin', serif;
+font-family: 'Poppins', sans-serif;
+
+next google fonts 
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Kaisei Tokumin', serif;
